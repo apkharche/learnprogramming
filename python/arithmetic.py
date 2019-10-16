@@ -25,4 +25,6 @@ print('Average of numnbers %d-%d = %d' % (1,5,avg))
 
 print('Adwait Kharche')
 print("Adwait Kharche")
-
+print("adwait kharche")
+course="adwait kharche"
+print(course)
